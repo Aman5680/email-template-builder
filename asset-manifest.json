@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/email-template-builder/static/css/main.fa9c2927.css",
+    "main.js": "/email-template-builder/static/js/main.ac193526.js",
+    "static/js/488.63747819.chunk.js": "/email-template-builder/static/js/488.63747819.chunk.js",
+    "index.html": "/email-template-builder/index.html",
+    "main.fa9c2927.css.map": "/email-template-builder/static/css/main.fa9c2927.css.map",
+    "main.ac193526.js.map": "/email-template-builder/static/js/main.ac193526.js.map",
+    "488.63747819.chunk.js.map": "/email-template-builder/static/js/488.63747819.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa9c2927.css",
+    "static/js/main.ac193526.js"
+  ]
+}
