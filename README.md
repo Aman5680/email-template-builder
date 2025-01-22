@@ -20,5 +20,7 @@ Then run Frontend
 
 
 ScreenShots of Email-Builder
+Before
 ![Screenshot 1](./email-template-builder-frontend/public/ScreenShot1.png)
+After
 ![Screenshot 2](./email-template-builder-frontend/public/ScreenShot2.png)
