@@ -1,0 +1,66 @@
+.emailEditor {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .emailEditor h1 {
+    font-size: 24px;
+    color: #333;
+    justify-self: center;
+  }
+  
+  .emailEditor div {
+    margin-bottom: 15px;
+  }
+  
+  .emailEditor label {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .emailEditor input,
+  .emailEditor textarea {
+    position: relative;
+    width: 80%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .emailEditor textarea {
+    height: 150px;
+  }
+  
+  .emailEditor button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .emailEditor button:hover {
+    background-color: #45a049;
+  }
+  
+  .emailEditor .previewBox {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #fff;
+  }
+
+  @media (min-width:600px) {
+    .emailEditor .content1 {
+        height: 10cm;
+        position: relative;
+        top: -85px;
+      }
+  }
+
+  .centerButton {
+    text-align: center;
+  }

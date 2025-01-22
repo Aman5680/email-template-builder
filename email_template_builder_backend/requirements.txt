@@ -1,0 +1,9 @@
+# Install Flask and other dependencies
+pip install flask flask-cors werkzeug pymongo
+
+# Save dependencies
+pip freeze > requirements.txt
+
+
+
+npm install axios
