@@ -19,7 +19,8 @@ Then run Frontend
 2) npm start
 
 
-ScreenShots of Email-Builder
+ScreenShots of Email-Builder ->
+
 Before
 ![Screenshot 1](./email-template-builder-frontend/public/ScreenShot1.png)
 After
